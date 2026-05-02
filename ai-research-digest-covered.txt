@@ -1,1 +1,4 @@
-
+https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-generation-gemini-deep-research/
+https://openai.com/index/evaluating-chain-of-thought-monitorability/
+https://jack-clark.net/2026/04/20/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/
+https://openai.com/index/open-source-codex-orchestration-symphony/
