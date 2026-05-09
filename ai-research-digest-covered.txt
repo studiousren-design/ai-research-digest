@@ -2,3 +2,7 @@ https://blog.google/innovation-and-ai/models-and-research/gemini-models/next-gen
 https://openai.com/index/evaluating-chain-of-thought-monitorability/
 https://jack-clark.net/2026/04/20/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/
 https://openai.com/index/open-source-codex-orchestration-symphony/
+https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
+https://alignment.openai.com/auto-review
+https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/
+https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/
