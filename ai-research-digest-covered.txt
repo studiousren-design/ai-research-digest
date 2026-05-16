@@ -6,3 +6,7 @@ https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemin
 https://alignment.openai.com/auto-review
 https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/
 https://jack-clark.net/2026/05/04/import-ai-455-automating-ai-research/
+https://openai.com/index/what-parameter-golf-taught-us/
+https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/
+https://blog.google/products-and-platforms/products/education/guided-learning/
+https://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/
