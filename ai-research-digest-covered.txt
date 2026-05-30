@@ -1,6 +1,3 @@
-https://openai.com/index/evaluating-chain-of-thought-monitorability/
-https://jack-clark.net/2026/04/20/import-ai-454-automating-alignment-research-safety-study-of-a-chinese-model-hifloat4/
-https://openai.com/index/open-source-codex-orchestration-symphony/
 https://blog.google/innovation-and-ai/technology/developers-tools/expanded-gemini-api-file-search-multimodal-rag/
 https://alignment.openai.com/auto-review
 https://blog.google/innovation-and-ai/products/responsible-ai-2026-report-ongoing-work/
@@ -13,3 +10,6 @@ https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer
 https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
 https://blog.google/innovation-and-ai/technology/developers-tools/interactions-api/
 https://openai.com/index/model-disproves-discrete-geometry-conjecture/
+https://openai.com/index/building-self-improving-tax-agents-with-codex/
+https://blog.google/technology/developers/gemini-3-developers/
+https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/
