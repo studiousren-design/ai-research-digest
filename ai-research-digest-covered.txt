@@ -1,6 +1,3 @@
-https://openai.com/index/what-parameter-golf-taught-us/
-https://openai.com/index/chatgpt-recognize-context-in-sensitive-conversations/
-https://blog.google/products-and-platforms/products/education/guided-learning/
 https://bair.berkeley.edu/blog/2026/05/08/adaptive-parallel-reasoning/
 https://jack-clark.net/2026/05/18/import-ai-457-ai-stuxnet-cursed-muon-optimizer-and-positive-alignment/
 https://blog.google/innovation-and-ai/technology/research/gemini-for-science-io-2026/
@@ -13,3 +10,6 @@ https://jack-clark.net/2026/06/01/import-ai-459-ai-oversight-is-difficult-scalin
 https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
 https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
+https://openai.com/index/diagnose-rare-childhood-diseases/
+https://importai.substack.com/p/import-ai-460-reward-hacking-society
+https://openai.com/index/introducing-life-sci-bench/
