@@ -1,7 +1,3 @@
-https://blog.google/technology/developers/gemini-3-developers/
-https://blog.google/products-and-platforms/products/education/measuring-the-impact-of-ai-on-teaching-and-learning/
-https://jack-clark.net/2026/06/01/import-ai-459-ai-oversight-is-difficult-scaling-laws-for-protein-folding-models-and-pricing-the-extinction-risk-of-ai-systems/
-https://openai.com/index/chatgpt-memory-dreaming/
 https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
 https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
 https://openai.com/index/diagnose-rare-childhood-diseases/
@@ -13,3 +9,7 @@ https://news.microsoft.com/source/2026/06/24/microsofts-new-ai-in-education-repo
 https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
 https://medium.com/capital-one-tech/llm-reasoning-and-agentic-safety-at-icml-2026-55f341e21caa
 https://onlinelibrary.wiley.com/doi/10.1111/exsy.70184
+https://arxiv.org/abs/2607.02980
+https://arxiv.org/abs/2607.05391
+https://arxiv.org/abs/2607.07379
+https://arxiv.org/abs/2607.07663
