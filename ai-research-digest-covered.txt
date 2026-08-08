@@ -1,5 +1,3 @@
-https://openai.com/index/introducing-new-capabilities-to-gpt-rosalind/
-https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/
 https://openai.com/index/diagnose-rare-childhood-diseases/
 https://importai.substack.com/p/import-ai-460-reward-hacking-society
 https://openai.com/index/introducing-life-sci-bench/
@@ -13,3 +11,5 @@ https://arxiv.org/abs/2607.02980
 https://arxiv.org/abs/2607.05391
 https://arxiv.org/abs/2607.07379
 https://arxiv.org/abs/2607.07663
+https://arxiv.org/abs/2608.05643
+https://www.forbes.com/sites/jonmarkman/2026/08/03/openais-astra-solved-10-decades-old-math-problems-for-just-2000/
