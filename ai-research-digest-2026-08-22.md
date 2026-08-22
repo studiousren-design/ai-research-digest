@@ -1,0 +1,9 @@
+# AI Research Digest — 2026-08-22
+
+---
+
+## Prompting/RAG, LLM alignment/critique loops, and AI-education: nothing cleared the bar this week
+
+Eight searches were run across all three priority categories. Results were dominated by evergreen surveys and blog roundups with no dated primary source in the 15–22 August window, plus arXiv papers whose IDs (a reliable proxy for submission month) place them anywhere from October 2025 through June 2026 despite surfacing in "2026" search summaries — e.g. an evolutionary in-context-learning prompt-pruning paper ("PromptQuine," June 2026), a two-stage RL critique-training paper (October 2025), a self-priority-optimization alignment paper (November 2025), and a self-correction/self-critique-reliability study (June 2026). Two arXiv items that did initially look promising (2607.07663, 2608.05643) turned out to already be the July/August items published in last week's and the prior week's digests. An ISEDJ paper on human-AI collaboration in knowledge transfer and a CHI 2026 paper on AI-assisted critical thinking looked closer to the education/critique-loop categories, but their exact publish dates couldn't be confirmed — network egress to arXiv, ACM Digital Library, and several news/blog domains was blocked in this session, so snippets couldn't be corroborated against source pages. No item in any of the three categories met both the recency and verification bar, so none is published this week rather than forcing a weak match.
+
+Wider Field: this week's search results were dominated by business and product news (an OpenAI IPO valuation report, a large NVIDIA data-center investment, model price cuts, and user-count milestones) rather than a research result reading as a genuine capability jump or paradigm shift, so that section is omitted this week rather than forced.
