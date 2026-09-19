@@ -1,0 +1,11 @@
+# AI Research Digest — 2026-09-19
+
+---
+
+## One story cleared the bar this week
+
+Eight searches were run across prompting/RAG/in-context learning, alignment/critique loops, and AI-in-education, plus a general sweep for the wider-field pick. Verifying publication dates then hit an environment constraint: both arxiv.org and huggingface.co were unreachable (blocked by network egress policy), so leads found only in a third-party arXiv daily-digest aggregator could be confirmed by title alone, not by abstract. Two looked promising — "Distortion of AI Alignment Revisited: RLHF is a Decent Utilitarian Aligner" (arXiv 2609.12651, alignment) and "LumiNote," an LLM-assisted VR stage-lighting instruction paper (arXiv 2609.17335, AI-in-education) — but a title isn't enough to write an accurate two-sentence summary or confirm the piece isn't a survey/opinion write-up, so both were dropped rather than guessed at. For the wider-field pick, the OpenAI Astra/Navier-Stokes story continues a theme already logged in the covered list (Astra's earlier claimed math-problem solutions), and Anthropic's Fable 5.1 launch is a product announcement rather than a research result, so that section is omitted rather than forced.
+
+**[Retrieval-Augmented Generation]** — A new paper, "RAG-CT: Mitigating Privacy Risks on Retrieval-Augmented Generation Systems via Scanning Prompt Distribution" (arXiv 2609.16095, submitted Sept 14), shows that RAG's retrieval step opens a distinct privacy attack surface: adversarially crafted queries can make the system regurgitate personally identifiable information straight out of the underlying corpus. Its proposed defense screens incoming queries by analyzing their prompt-distribution characteristics to flag and block extraction attempts before retrieval happens, rather than trying to filter the risk out of the generated output afterward.
+*For your build:* Layer 2 (RAG examples) — if your retrieval corpus contains any sensitive or user-specific data, add a query-screening step ahead of retrieval rather than relying on output filtering alone, since this paper's finding is that the vulnerability lives in what gets *retrieved*, not just what gets generated.
+Source: https://arxiv.org/abs/2609.16095
