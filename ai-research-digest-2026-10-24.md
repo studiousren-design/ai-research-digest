@@ -1,0 +1,7 @@
+# AI Research Digest — 2026-10-24
+
+_Note: 8 searches used. Search results were thin for the past week. Only one story could be matched to the priority themes with a date plausibly inside the 7-day window; the other two slots are left empty rather than filled with undated or out-of-window items. The arXiv ID 2610.15661 implies a mid-October submission, so its exact date is not verified. Near-misses (not selected): OpenAI posts of 19 Oct on multi-agent biological data analysis and on low-resource programming languages (no article URL in snippets, off-theme); Anthropic's 12 Oct self-replication report (outside window, already covered). No Wider Field item is included because nothing clearly qualified._
+
+**[LLM alignment / feedback and critique loops]** — "Feedback as an Interface: Controlling Form and Detail in LLM Translation Refinement" (arXiv 2610.15661) studies how the presentation of evaluator feedback changes how an LLM revises its output. It holds the score and main recommendation fixed while varying how the critique is worded and how much of it the reviser sees. Only the search snippet was seen, not the full paper.
+*For your build:* In Layer 3, treat the critique's format and level of detail as a tunable parameter, not just its content. Test short versus detailed critiques fed back to the Layer 1 reviser, and keep the score and main recommendation constant while you vary them.
+Source: https://arxiv.org/html/2610.15661

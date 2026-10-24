@@ -1,4 +1,3 @@
-https://www.buildfastwithai.com/blogs/ai-news-today-august-10-2026
 https://isedj.org/2026-24/n5/ISEDJv24n5p29.html
 https://arxiv.org/html/2606.00610v1
 https://arxiv.org/pdf/2602.08369
@@ -13,3 +12,4 @@ https://arxiv.org/abs/2609.20408
 https://arxiv.org/abs/2609.24352
 https://arxiv.org/abs/2610.21149
 https://ai2roi.substack.com/p/ai-to-roi-news-and-analysis-october-c69
+https://arxiv.org/html/2610.15661
